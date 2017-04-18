@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "626838632924",
+    "project_id": "holdie-card-app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626838632924:android:3b568c998c5a9295",
+        "android_client_info": {
+          "package_name": "com.holdiecard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626838632924-l56u03d9aif5v6d3t1m5cpfjab2mm998.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.holdiecard",
+            "certificate_hash": "62F0AB6C54B6C151DDC62CD0A5E0968160BBBF9B"
+          }
+        },
+        {
+          "client_id": "626838632924-il1qeq5i4u9oj5h89ifbot7g2elbqr0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASjtPk5gx-kwJZhjZnFzio31_31rs02js"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
